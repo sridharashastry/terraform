@@ -1,0 +1,12 @@
+{
+    "output": {
+        "greeting1": {
+            "value": "Hello, World! JSON format Greeting 1"
+        },
+        "greeting2": {
+            "value": "Hello, World! JSON format Greeting 2"
+        }
+    }
+}
+
+ 
