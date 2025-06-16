@@ -1,6 +1,6 @@
 # Configure Azure Provider
 provider "azurerm" {
-  subscription_id = "de50fe3f-7334-44a1-acee-f224cfa5a19d"
+   
   features {}
 }
 
